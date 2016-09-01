@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AulaSeis</string>
+    <string name="button_um">Mensagem</string>
 </resources>
